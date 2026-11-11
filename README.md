@@ -3,15 +3,19 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![iPadOS](https://img.shields.io/badge/iPadOS-000000?logo=apple&logoColor=white)
 
 **iOS Engineer · Swift · SwiftUI · SDK Development**
 
-I'm an iOS engineer with 7+ years of professional experience building Apple platform apps and SDKs.
+English | [Русский](README.ru.md)
 
-Since 2023, I've been the sole iOS developer maintaining and evolving the Carrot quest SDK, integrated into around 100 client applications. My work includes native UI development, SDK integrations, real-time messaging, push notifications, performance optimization, and release management.
+I'm an iOS engineer with 7+ years of professional experience building Apple platform applications and SDKs.
 
-I enjoy solving problems beyond iOS development — from building developer documentation to automating workflows with Claude Code and Codex.
+I've been working at Carrot quest since 2019, developing iOS applications and contributing to the company's SDK. Since 2023, I've focused on SDK development as its sole iOS developer, maintaining and evolving a library integrated into around 100 client applications.
+
+My work includes native UI development, SDK integrations, real-time messaging, push notifications, performance optimization, and release management.
+
+Outside of work, I build my own applications, contribute to open-source projects, and explore technologies beyond Apple's ecosystem — including developer documentation and workflow automation with Claude Code and Codex.
 
 ### Selected work
 
@@ -25,9 +29,9 @@ I enjoy solving problems beyond iOS development — from building developer docu
 
 ### Technologies
 
-**Apple platforms:** Swift, SwiftUI, UIKit, Objective-C, RxSwift, Core Data
-**SDK & integrations:** WebSocket, REST APIs, Firebase, APNs, Swift Package Manager, CocoaPods
-**Tools:** Git, Docker, Linux, Bash, Claude Code, Codex
+- **Apple platforms:** Swift, SwiftUI, UIKit, Objective-C, RxSwift, Core Data
+- **SDK & integrations:** WebSocket, REST APIs, Firebase, APNs, Swift Package Manager, CocoaPods
+- **Tools:** Git, Docker, Linux, Bash, Claude Code, Codex
 
 ### Contact
 
